@@ -28,11 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/95508620/179644659-be9a5e2b-834d-46ab-96b6-2de4a519b890.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Preview-card-component](https://github.com/En-route/Preview-card-component.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
